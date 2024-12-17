@@ -13,12 +13,24 @@
 
 ## 🛠️ **Tecnologías que manejo**  
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="70" height="70" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="70" height="70" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="70" height="70" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="70" height="70" />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="PHP" width="70" height="70" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&center=true&vCenter=true&lines=Dominio+de+Tecnologías+Web;Siempre+aprendiendo+algo+nuevo!;Desarrollo+Front+%26+Back+End;Pasión+por+el+código+💻" />
 </p>
 
 ---
