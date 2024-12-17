@@ -45,7 +45,7 @@
 ---
 
 ## ✨ **Proyectos destacados**  
-- 🌐 **Mi página web personal**: [Ver proyecto](https://tuweb.com)  
+- 🌐 **Mi página web personal**: [Ver proyecto](https://fuetelpoxo.github.io/mi-pagina-web/)  
 
 ---
 
